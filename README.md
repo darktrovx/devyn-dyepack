@@ -1,5 +1,9 @@
 # devyn-dyepack
- 
+
+Dyepacks inspired from PayDay 3.
+This is only meant as a tool, it won't do anything on its own except play the effects and disarming.
+If you want functionality for your server you will have to add it yourself.
+
 Demo: https://youtu.be/aCJdemmXRYE
 
 Requirements.
