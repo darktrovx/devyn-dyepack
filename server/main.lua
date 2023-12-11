@@ -15,6 +15,7 @@ local function AddStack(coords, disableTime)
     }
 
     TriggerClientEvent("moneystack:AddStack", -1, id, STACKS[id])
+    return id
 end
 exports('AddStack', AddStack)
 
